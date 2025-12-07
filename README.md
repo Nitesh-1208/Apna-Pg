@@ -4,7 +4,7 @@
 Apna PG is a user-friendly Paying Guest (PG) search and management system designed to help students and working professionals find suitable accommodations in major cities.
 The platform provides detailed property listings, ratings, amenities, and a clean, easy-to-navigate UI.
 
-🚀 Tech Stack Used
+🚀 Tech Stack Used 
 Frontend:
 HTML, CSS, JavaScript
 Backend:
@@ -15,7 +15,7 @@ Tools:
 VS Code
 ---
 ✨ Features
-🔍 Search PGs by City
+🔍Search PGs by City
 Quickly browse properties available in major cities.
 🏠 Property Listings
 View rent, amenities, location, and property images.
